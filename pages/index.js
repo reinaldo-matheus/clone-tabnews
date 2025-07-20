@@ -7,6 +7,5 @@ function Home() {
   );
 }
 
-functio;
 
 export default Home;
